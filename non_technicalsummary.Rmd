@@ -1,0 +1,51 @@
+---
+title: "Non-Technical Summary"
+author: "Paul Oldham"
+date: "1 June 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Non-Technical Summary
+
+Valuing the Deep presents the results of independent research on economic activity involving marine genetic resources from Areas Beyond National Jurisdiction (ABNJ). Areas Beyond National Jurisdiction are located beyond the 200 nautical mile boundaries of national Exclusive Economic Zones (EEZs) and subject to the provisions of the United Nations Convention on the Law of the Sea (UNCLOS). 
+
+UN Member States are debating a possible new international instrument on the conservation and sustainable use of marine biodiversity in ABNJ including questions relating to benefit-sharing arising from the exploitation of marine genetic resources. Member States have expressed a range of views on these issues. At the UN Conference on Sustainable Development in 2012 (Rio+20), it was agreed that a decision will be taken by the UN General Assembly during its 69th session in 2015 on whether there should be a new implementing agreement. 
+Marine genetic resources include biochemical compounds and the genetic components of marine organisms. Scientific research into these organisms and habitats in ABNJ is limited by remoteness and depth, as well as requiring expensive equipment and international cooperation. UK deep-sea research ranks second in international standings on scientific publications and UK researchers collaborate with researchers from 97 countries. 
+Access and benefit-sharing involving marine genetic resources from ABNJ raises two main questions. Should there be new conditions on access to genetic resources in ABNJ for non-commercial and commercial research purposes? Should a mechanism be created for the sharing of the monetary and non-monetary benefits arising from the utilization of marine genetic resources from ABNJ? 
+Answers to these questions are based on expectations about the actual or potential economic value of marine genetic resources from ABNJ. Very little research has been carried out on the uses and economic value of these resources. Valuing the Deep addresses this issue through large-scale analysis of scientific publications and patents, and a review of literature on market values. This has been complemented by an anonymous online multi-round consultation, known as a Delphi Study, with 52 marine experts from 18 countries. 
+The main findings of the research are:
+1. There is growing interest in marine genetic resources in general but research mainly takes place inside national jurisdictions. This is demonstrated through mapping of deep-sea research locations from the scientific literature. Research in ABNJ is concentrated in a limited number of locations such as the East Pacific Rise and Mid-Atlantic Ridge; 
+2. Marine organisms from ABNJ that appear in patents often occur elsewhere. Patents are an indicator of commercial research and development. Many deep-sea marine organisms from ABNJ that appear in patent documents also occur inside national jurisdictions and terrestrial aquatic environments. There are very limited references to actual field collections of organisms from ABNJ. It is likely that patent applicants mainly obtain marine genetic material or data from commercial sources, public collections or databases;
+3. Marine natural product research mainly concentrates on marine invertebrates from inside national jurisdictions. Marine natural product research focuses on marine invertebrates, such as sponges and tunicates, but displays growing interest in microorganisms. Interest in organisms from ABNJ is best described as emergent;
+4. Marketed products are mainly derived from organisms inside national jurisdiction with limited exceptions. The exceptions are mainly enzymes from extremophiles and oils from Antarctic krill for nutraceutical products; 
+5. Widely quoted market estimates for marine genetic resources lack methodological transparency and should not be relied upon in the absence of peer review.
+We conclude that:
+1. United Nations debates on ABNJ are focused on the potential economic value of marine genetic resources rather than actual economic value;
+2. Measures on access and benefit-sharing under any implementing agreement will be directed to the anticipatory governance of marine genetic resources.
+On Access Regulations: 
+•	Research in ABNJ is difficult, expensive and there is not enough of it. Marine experts agree that, while care is required, research on marine genetic resources has very limited environmental impacts; 
+•	Any access measures should be strictly limited and build upon existing reporting practices. Existing practices include cruise reporting procedures, codes of conduct and guidelines from within the research community. 
+On Benefit-Sharing: 
+•	Any benefit-sharing measures or mechanism should be built from the bottom up with the deep-sea research community and directed to promoting deep-sea research; 
+•	Benefit sharing options could include a central repository of exploration needs and gaps, improved cruise coordination, and improved access to raw and published data; 
+•	A common inter-funding agency road map for deep-sea research could promote research for the wider benefit of humanity with limited transaction costs; 
+•	A venture or exploration fund to promote deep-sea research. A venture fund would promote international cooperation in deep-sea research as part of any implementing agreement. Elements of such a fund could include:
+o	A common pool of research funds. Funds would be administered by existing funding agencies building on experience with bi-lateral and multi-lateral research funding programmes. This option would not require a new institution and would limit administrative costs. The common pool would be linked to an agreed common road map for research;
+o	An agreed common road map for deep-sea research. The road map would be based on priorities identified in consultations between funding agencies and the deep-sea research community;
+o	Contribution based participation in the venture fund. Countries with researchers wishing to benefit from the fund would be required to contribute to the common pool as a condition of access. Contribution criteria would take into account the varying economic circumstances of countries that may wish to participate and prioritise expanding the deep-sea research base;
+o	International collaboration as a condition for access to the venture fund. International collaboration, including researchers from developing countries, would be a fundamental condition for applications to the fund;
+o	Non-discrimination between commercial and non-commercial research. In principle the venture fund would be open for applications for non-commercial, commercial or mixed research without discrimination. However, applicants would be required to return a proportion of any income arising from commercial products or intellectual property assets to the fund to support its sustainability as a condition of support from the venture fund; 
+o	The unique purpose of the venture fund would be the promotion of deep-sea research in Areas Beyond National Jurisdiction for the wider benefit of humanity. 
+On Capacity Building and Technology Transfer:
+•	There is a need for more infrastructure and access to financial resources to enable training and research exchanges between developed and developing countries;
+•	Improved coordination of research cruises and capacity building measures similar to the Nagoya Protocol are desirable;
+•	Deep-sea research requires national level facilities and requires national research programmes;
+•	Deep-sea research requires Remote Operated Vehicles (ROVs), Human Operated Vehicles (HUVs) and unmanned tethered and untethered Autonomous Underwater Vehicles (AUVs). In situ sea bed observatories with a suite of biological and genomic sensors can overcome the limitations of access to the deep-sea in ABNJ;
+•	An agreed long-term strategy for capacity building and technology transfer is required to overcome short-termism in support for deep-sea research. 
+On Monitoring and Indicators:
+•	Low impact cost effective monitoring is desirable. Trust should be placed in cruise leaders to report findings along with self reporting by scientists and companies as part of environmental impact assessments along with sample collection reporting;
+•	Improve disclosure of the origin of material in patent applications. Improved disclosure would enhance awareness of the contribution of marine genetic resources to innovation. 

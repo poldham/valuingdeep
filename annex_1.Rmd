@@ -1,0 +1,83 @@
+---
+title: "Annex 1"
+author: "Paul Oldham"
+date: "1 June 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Annex 1
+Literature Review Method Description
+A literature review was conducted using the Thomson Reuters Web of Science database to identify relevant scientific literature and expertise. 
+In the initial phase of the literature review a series of exploratory searches were carried out to build a working dataset of 6,287 scientific publications. Using VantagePoint analytics and natural language processing software from Search Technology Inc. we reviewed all words and phrases from the title, abstract and author keywords and cited titles (keywords plus) to identify additional search terms for specialist topics. For example, while our original search included hydrothermal vents and cold seeps, it did not include methane seeps or mud volcanoes. This approach therefore allowed us to identify additional important reference terms for deep-sea features and research. Additional searches were then conducted on specialist topics (e.g. mud volcanoes or ecosystem services) and sub-datasets were created on these specialist topics. The results of different searches are provided in Table 1 below. 
+To contextualise the literature for use in the research we conducted a general search for marine literature. This revealed a universe of approximately 385,278 scientific publications across all fields and all years that make reference to marine or deep-sea topics (Table 1). Approximately 29,689 publications make reference to the deep-sea and ocean floor related topics (Table 1) as of December 2013.  
+Because the scientific literature covers a wide range of topics involving the deep-sea e.g. engineering, geology etc. we restricted the 29,689 results on the deep-sea by the subject category of the journal to focus in on those topics of direct relevance to biology and conservation. This produced a dataset of 10,356 records (Table 1). These records were downloaded for use in a reference set. 
+In the next step the 10,356 records were combined with the sub-datasets on specialists topics listed in Table 1. In some cases because of the size of the results sets the sub-datasets had also been restricted by journal subject category in Web of Science. Because the datasets could contain overlapping records, the combined dataset was deduplicated on the unique document identifier (ISI Unique Article Identifier) to produce a core dataset of 24,259 publications for use in the research. 
+The purpose of this iterative approach was three fold:
+1.	To generate a dataset of specialist literature to inform the report including analysis of trends in specific areas;
+2.	To generate a thesaurus of terms for use in searching patents containing known marine species or locations for evidence of collection from Areas Beyond National Jurisdiction;
+3.	To identify relevant specialists for potential participation in the Delphi study. 
+The main strength of this iterative approach is that it focuses on identifying terms actually used by specialists in the field of deep-sea research across disciplines to develop a core reference dataset rather than using predictive guesswork. 
+Viewed in terms of the approximate universe of marine related publications this dataset comprises approximately 6% of that universe but is targeted towards deep-sea, biological, conservation and economic topics. A second advantage of this approach is that it allows for the identification of specialists in particular areas of research (i.e. hydrothermal vents or cold seeps or marine ecosystem services) for participation in the Delphi segment or consultation on specific topics arising in the research. This approach also allows for the identification of the key organisations and institutions involved in scientific publications on genetic resources in the deep-sea. The main weakness of the approach is that it is confined to data in Web of Science. Web of Science mainly focuses on journal articles with very limited coverage of books and book chapters. Furthermore, the approach will underestimate industry participation in research except where published in peer review journals. For example, additional research proved necessary to identify companies interested in mining the deep-sea bed and hydrothermal vents.  
+Table 1: Search Results Web of Science 1900-2014 (January 2nd 2014)
+Search Terms	Retained Records	Totals
+(December 2013)	File Name
+Topic=("marine" or "deep sea" or "deep-sea" or "ocean" or "oceans" or "sea bed" or "seabed")
+	-	385,278	Not used
+Topic=("deep sea" or "deep sea" or "deep-sea" or "sea bed" or "seabed" or “sea-bed” or sea floor" or "seafloor" or “”sea-floor” or “ocean floor" or "oceanfloor" or “ocean-floor”)	see below	29,689	N/A
+Topic=("deep sea" or "deep sea" or "deep-sea" or "sea bed" or "seabed" or “sea-bed” or sea floor" or "seafloor" or “”sea-floor” or “ocean floor" or "oceanfloor" or “ocean-floor”)
+Refined by: Web of Science Categories=( ANATOMY MORPHOLOGY OR BEHAVIORAL SCIENCES OR BIOCHEMICAL RESEARCH METHODS OR ENVIRONMENTAL SCIENCES OR OPHTHALMOLOGY OR BIOCHEMISTRY MOLECULAR BIOLOGY OR ENVIRONMENTAL STUDIES OR BIODIVERSITY CONSERVATION OR EVOLUTIONARY BIOLOGY OR BIOLOGY OR FISHERIES OR PARASITOLOGY OR BIOPHYSICS OR FOOD SCIENCE TECHNOLOGY OR PHARMACOLOGY PHARMACY OR BIOTECHNOLOGY APPLIED MICROBIOLOGY OR GENETICS HEREDITY OR CELL BIOLOGY OR CHEMISTRY ANALYTICAL OR CHEMISTRY APPLIED OR CHEMISTRY MEDICINAL OR CHEMISTRY MULTIDISCIPLINARY OR PHYSIOLOGY OR CHEMISTRY ORGANIC OR PLANT SCIENCES OR POLITICAL SCIENCE OR INTERNATIONAL RELATIONS OR LAW OR LIMNOLOGY OR MARINE FRESHWATER BIOLOGY OR SOIL SCIENCE OR ECOLOGY OR TOXICOLOGY OR WATER RESOURCES OR MICROBIOLOGY OR ZOOLOGY )
+Timespan=All years. Databases=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH.	10,356	see above	WOS_deepsea_SCrestricted_
+Topic=("marine natural products")	2,255	2,255	WOS Marine Natural products 30122013_2258
+Topic=(marine) AND Topic=("deep sea") AND Topic=("biodiversity" or "conservation"	323	413	WOS_deep sea biodiversity conservation.ciw
+Topic=("cold seep")	703	714	WOS cold seep 703
+“deep sea” Web of science “biotechnology applied microbiology” category only	504	20,247	WOS deep sea biotechnology applied microbiology 504
+Topic=("hydrothermal vent")	2,731	2,755	WOS hydrothermal vent 2731
+WOS_hydrothermalvent 2731.vpt
+Topic=("marine biodiversity") OR Topic=("marine biological diversity")	900	917	WOS marine biodiversity biological diversity 900
+Topic=("marine biotechnology")	112	118	WOS_marinebiotechnology.ciw copy
+Topic=("marine genetic resources")	9	9	WOS_marinegeneticresources1_9.vpt
+Topic=("seamount" or "seamounts")
+Refined by: Web of Science Categories=( MICROBIOLOGY OR ENGINEERING MARINE OR MICROSCOPY OR ENGINEERING OCEAN OR BIOCHEMICAL RESEARCH METHODS OR BIOCHEMISTRY MOLECULAR BIOLOGY OR ENVIRONMENTAL SCIENCES OR BIODIVERSITY CONSERVATION OR ENVIRONMENTAL STUDIES OR BIOLOGY OR EVOLUTIONARY BIOLOGY OR BIOPHYSICS OR FISHERIES OR PALEONTOLOGY OR BIOTECHNOLOGY APPLIED MICROBIOLOGY OR FOOD SCIENCE TECHNOLOGY OR PARASITOLOGY OR CELL BIOLOGY OR GENETICS HEREDITY OR PHARMACOLOGY PHARMACY OR CHEMISTRY ANALYTICAL OR GEOCHEMISTRY GEOPHYSICS OR CHEMISTRY APPLIED OR CHEMISTRY INORGANIC NUCLEAR OR CHEMISTRY MEDICINAL OR CHEMISTRY MULTIDISCIPLINARY OR CHEMISTRY PHYSICAL OR PLANT SCIENCES OR INTERNATIONAL RELATIONS OR LAW OR DEVELOPMENTAL BIOLOGY OR MARINE FRESHWATER BIOLOGY OR REMOTE SENSING OR ECOLOGY OR ENERGY FUELS OR SOIL SCIENCE OR TOXICOLOGY OR WATER RESOURCES OR MEDICINE GENERAL INTERNAL OR ZOOLOGY OR ENGINEERING ENVIRONMENTAL )	2,591	4,581 (overall)	WOS Seamount Category restricted 2591
+Topic=("deep sea") AND Topic=("environmental impact" or "environmental impacts")	114	114	WOS deep sea and environmental impact or environmental impacts 114.vpt
+Topic=("seafloor" or "sea-floor" or "sea bed" or "sea-bed")
+Refined by: Web of Science Categories=( ENGINEERING ENVIRONMENTAL OR MICROBIOLOGY OR NANOSCIENCE NANOTECHNOLOGY OR BIOCHEMISTRY MOLECULAR BIOLOGY OR BIODIVERSITY CONSERVATION OR BIOLOGY OR ENVIRONMENTAL SCIENCES OR BIOPHYSICS OR ENVIRONMENTAL STUDIES OR BIOTECHNOLOGY APPLIED MICROBIOLOGY OR EVOLUTIONARY BIOLOGY OR CELL BIOLOGY OR CHEMISTRY ANALYTICAL OR GENETICS HEREDITY OR CHEMISTRY APPLIED OR CHEMISTRY MULTIDISCIPLINARY OR CHEMISTRY PHYSICAL OR PLANT SCIENCES OR POLITICAL SCIENCE OR PUBLIC ENVIRONMENTAL OCCUPATIONAL HEALTH OR INTERNATIONAL RELATIONS OR LAW OR MARINE FRESHWATER BIOLOGY OR SOIL SCIENCE OR ECOLOGY OR ECONOMICS OR MATHEMATICAL COMPUTATIONAL BIOLOGY OR TOXICOLOGY OR WATER RESOURCES OR ZOOLOGY )	2,524	16,090 (all records) 	WOS Seafloor Seabed restricted 2524
+governance			Not used
+Topic=("water column") AND Topic=("ocean" or "sea")		11,860	Not used
+Topic=("methane seep" or "methane seeps") 		510	WOS methane seep or methane seeps 510
+Topic=("mid-ocean ridge" or "mid-ocean ridges" or "mid ocean ridge" or "mid ocean ridges")
+Refined by: Web of Science Categories=( EVOLUTIONARY BIOLOGY OR FISHERIES OR OCEANOGRAPHY OR ECOLOGY OR ZOOLOGY OR MARINE FRESHWATER BIOLOGY OR CHEMISTRY MEDICINAL OR BIOLOGY OR ENVIRONMENTAL SCIENCES OR MICROBIOLOGY OR ENVIRONMENTAL STUDIES OR INTERNATIONAL RELATIONS OR LAW OR NANOSCIENCE NANOTECHNOLOGY OR WATER RESOURCES OR BIODIVERSITY CONSERVATION OR PARASITOLOGY OR BIOTECHNOLOGY APPLIED MICROBIOLOGY OR BIOCHEMISTRY MOLECULAR BIOLOGY OR CHEMISTRY MULTIDISCIPLINARY )	257	3,799 (all records)	WOS_midocean ridges restricted 257.ciw
+Topic=("hydrothermal systems") AND Topic=("ocean" or "sea" or "marine")	767	767	WOS hydrothermal systems sea ocean marine 767
+Topic=("mud volcano" or "mud volcanoes") AND Topic=("ocean" or "sea" or "marine")
+	626	626	WOS mud volcano or mud volcanoes 626
+1. Topic=("sediment") AND Topic=("ocean" or "sea" or "marine")
+
+2. Refined to Topic=("sediment") AND Topic=("deep ocean" or "deep sea")
+
+Then further refined on categories as provided below
+
+
+
+ 
+	see below	45,684
+
+
+(4,886)	
+3. Topic=("sediment") AND Topic=("deep ocean" or "deep sea")
+Refined by: Web of Science Categories=( MYCOLOGY OR ENVIRONMENTAL SCIENCES OR ONCOLOGY OR ENVIRONMENTAL STUDIES OR EVOLUTIONARY BIOLOGY OR FISHERIES OR FOOD SCIENCE TECHNOLOGY OR PARASITOLOGY OR BIOCHEMICAL RESEARCH METHODS OR GENETICS HEREDITY OR BIOCHEMISTRY MOLECULAR BIOLOGY OR BIODIVERSITY CONSERVATION OR BIOLOGY OR BIOPHYSICS OR BIOTECHNOLOGY APPLIED MICROBIOLOGY OR CELL BIOLOGY OR PHYSIOLOGY OR CHEMISTRY MEDICINAL OR MARINE FRESHWATER BIOLOGY OR PLANT SCIENCES OR PUBLIC ENVIRONMENTAL OCCUPATIONAL HEALTH OR SOIL SCIENCE OR ECOLOGY OR MICROBIOLOGY OR TOXICOLOGY OR WATER RESOURCES OR ZOOLOGY )	1,219	see above	WOS sediment deep sea restricted 1219
+Topic=("hydrocarbon seep")	255	255	WOS_hydrocarbonseep_1_255.ciw
+Topic=("benthic community" or "benthic communities") AND Topic=("deep sea" or "deep ocean" or "sea bed" or "sea floor")	418	Restricted to deep sea etc. because general results were 5,117 and include shallow waters and surf zones etc. 	WOS_benthiccommunity_benthiccommunities_restricted_1_418.ciw copy
+Topic=("black smoker" or "black smokers") AND Topic=("sea" or "marine" or "ocean")	314	314	WOS black smoker 314
+Topic=("deep-sea animals" or "deep sea animals" or "deep-sea animal" or "deep sea animal")	95	95	WOS_deep sea animals or animal 1_95.ciw
+Topic=("subsurface biosphere" or "sub-surface biosphere") AND Topic=("sea" or "ocean" or "marine")	56	85	WOS_subsurface biosphere restricted 1_56.ciw
+Topic=("subsea floor" or "sub-sea floor")
+	79	79	WOS_subseafloor_1_79.ciw
+Topic=("deep sea benthos")	170	170	WOS_deepseabenthos_1_170.ciw
+Topic=("deep sea" or "sea bed" or "high seas" or "areas beyond national jurisdiction" or "marine") AND Topic=("patent" or "patents" or "intellectual property")	82	82	
+Topic=("ecosystem service" or "ecosystem services" or "economic valuation" or "economics" or "economic value" or "economic values") AND Topic=("marine" or "deep sea" or "deep sea" or "ocean" or "oceans" or "seabed" or "sea bed")	1,303	1,303	WOS Marine ecosystem services 1303
+“marine genetic resource” or “marine genetic resources”	9	9	WOS_marinegeneticresources1_9.ciw 
+Total (Deduplicated on Article Identifier)	24,259	-	WOS compiled references 24,259
+Search Data: Timespan=All years. Databases=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH.
