@@ -1,0 +1,15 @@
+--- 
+title: "Valiung the Deep: Marine Genetic Resources in Areas Beyond National Jurisdiction"
+author: "Paul Oldham et. al."
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "A review of scientific research and patent activity involving marine genetic resources from the deep oceans in Areas Beyond National Jurisdiction (ABNJ)"
+---
+
+# Preface {-}
+
+This will be the preface.

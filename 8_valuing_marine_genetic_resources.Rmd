@@ -1,16 +1,6 @@
----
-title: "6. The Value of Marine Genetic Resources"
-author: "Paul Oldham"
-date: "1 June 2016"
-output: html_document
----
+# The Value of Marine Genetic Resources
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## 6. The Value of Marine Genetic Resources
-6.1 Introduction
+### Introduction
 
 In this chapter we examine existing information on the actual and potential economic value of marine genetic resources drawing on the available scientific and market literature. As a starting point, we would emphasise that the value of marine organisms and habitats cannot simply be reduced to economic values. Rather our purpose is to assess existing information on the economic value of marine genetic resources from Areas Beyond National Jurisdiction as a contribution to evidence based analysis and debate on the economic value of these resources. Specifically, we argue that at present marine genetic resources fall into the domain of potential economic value rather than realised value. This has important implications for the design of a possible implementing agreement (or agreements) involving access and benefit-sharing within the framework of UNCLOS.
 

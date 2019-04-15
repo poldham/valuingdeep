@@ -1,17 +1,6 @@
----
-title: "5. Origins and Sources"
-author: "Paul Oldham"
-date: "1 June 2016"
-output: html_document
----
+# Origins and Sources
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## 5. Origins and Sources
-
-5.1 Introduction
+### Introduction
 
 In the previous chapter we examined the issues involved in developing statistics on patent trends for marine genetic resources from the deep-sea. One of the key challenges that emerged from quantitative approaches is the difficulty of establishing whether genetic material was sourced from Areas Beyond National Jurisdiction or from inside the EEZ or terrestrial environments. In this chapter we present a brief summary of the results of efforts to identify the origins and sources of genetic material in patent data with detailed information provided in Annex 2.
 

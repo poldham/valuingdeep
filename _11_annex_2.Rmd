@@ -1,15 +1,5 @@
----
-title: "Annex 2"
-author: "Paul Oldham"
-date: "1 June 2016"
-output: html_document
----
+# Annex 2
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## Annex 2
 In this annex we provide a series of reference examples from the data on origins and sources. 
 Named Locations in Patent Data
 The East Pacific Rise

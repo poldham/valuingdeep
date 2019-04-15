@@ -1,15 +1,4 @@
----
-title: "Understanding the Deep Sea"
-author: "Paul Oldham"
-date: "1 June 2016"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## 2. Understanding the Deep-Sea
+# Understanding the Deep-Sea
 
 Until relatively recently the deep-sea was thought to be a lifeless desert. The last thirty years of deep ocean exploration have transformed our understanding of the deep seas, deep-sea habitats and the diversity of marine organisms. 
 

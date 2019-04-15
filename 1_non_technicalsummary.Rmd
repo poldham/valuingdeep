@@ -1,15 +1,4 @@
----
-title: "Non-Technical Summary"
-author: "Paul Oldham"
-date: "1 June 2016"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-#Non-Technical Summary
+# Non-Technical Summary
 
 Valuing the Deep presents the results of independent research on economic activity involving marine genetic resources from Areas Beyond National Jurisdiction (ABNJ). Areas Beyond National Jurisdiction are located beyond the 200 nautical mile boundaries of national Exclusive Economic Zones (EEZs) and subject to the provisions of the United Nations Convention on the Law of the Sea (UNCLOS). 
 

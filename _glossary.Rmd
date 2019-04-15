@@ -1,0 +1,152 @@
+---
+title: "Untitled"
+author: "Paul Oldham"
+date: "1 June 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Glossary
+ABNJ	Areas Beyond National Jurisdiction. The term deep-sea is used in this report in place of this acronym and means the water column (the High Seas) and the seabed (the Area) in ABNJ as defined by UNCLOS.
+
+Abyssal Plain 	The vast flat sediment plains in the abyssal depths.
+
+Abyssopelagic (Abyssal)	The deep open sea between 4000 m and 6000 m.
+
+AUV	Autonomous Underwater Vehicle.
+
+Bathypelagic	‘The Midnight Zone’, the pelagic zone from 1000 m to 4000 m.
+
+Benthic 	The ecological zone of the seabed including sediments.
+
+Benthos 	The organisms living on and in the benthic habitat.
+
+Bioactive 	A substance that has an effect on living tissue.
+
+Biogeography 	The study of geographical distribution of species and ecosystems.
+
+Biomass 	The total weight of living organisms.
+
+CBD	United Nations Convention on Biological Diversity.
+
+CeDAMar	Census of the Diversity of Abyssal Marine Life.
+
+Chemosynthetic	The oxidation of inorganic molecules or methane as a source of energy, rather than sunlight.
+
+CIESM	The Mediterranean Science Commission.
+
+Cold Seep	An area where reduced sulfur and methane emerge unheated from the seafloor.
+
+Community	All of the organisms sharing a given habitat.
+
+Cosmeceuticals	Cosmetics with biologically active ingredients.
+
+Dense shelf 
+water-cascading events	When continental shelf waters, cooled by winter climate, become denser than surrounding ocean waters and flow downslope into the deep-sea.
+
+Delphi Study	A structured series of questionnaires and consultation with experts.
+
+Ecology	The study of relationships between organisms and their physical environment.
+
+EEZ	Exclusive Economic Zone.
+
+Epipelagic	The layer of the ocean where enough sunlight reaches to enable photosynthesis.
+
+EMEA	European Medicines Agency.
+
+EP	European Patent Office patent publication under the European Patent Convention. Taken from the two level country code appearing at the beginning of a patent publication number.
+
+EPO	European Patent Office. 
+
+Eutrophication	The nutrient over-enrichment of a waterbody.
+
+Family (patent)	This refers to counts of the first filings or priority patent applications. This ensures that applications that are submitted in multiple countries are only counted once. We use the INPADOC system for linking patent family members to their parent or priority filing. 
+
+Family Members	Patent applications and grants published anywhere in the world that link back to the same first filing or priority application as their parent based on the INPADOC system.
+
+First Filing	We use this term to describe the priority filing that forms the basis for a patent family.
+
+FDA	United States Food and Drug Administration.
+
+GBIF	Global Biodiversity Information Facility.
+
+GEBCO	The General Bathymetric Chart of the Oceans.
+
+GenBank	National Institutes of Health Genetic Sequence Database.
+
+Georeferenced	Biological record associated with geographic coordinates.
+
+Hadopelagic (Hadal)	The pelagic zone of the deep trenches below about 6000 m.
+
+Hydrothermal Vent	A seafloor vent emitting geothermally heated water.
+
+HOV	Human Operated Vehicle.
+
+Infauna	Animals which live in the seabed sediment.
+
+INPADOC	International Patent Documentation Center. 
+
+INPADOC established the widely used family linking system and is part of the European Patent Office.
+
+InterRidge	Non-profit organisation promoting mid-ocean ridge research. 
+
+Kind codes	These are two letter codes that describe the type of patent document and allow trends in applications and grants to be mapped. However, considerable care is required as the use of the same code may vary across patent offices and over the course of time. With the exception of US publications prior to 2001 we assume that kind code A means an application and kind code B means a patent grant. This provides an approximation of trends in applications and grants. We exclude administrative republications (i.e. A3) from trends analysis. 	
+
+Manganese Nodules	Polymetallic nodules found scattered in fields on the Abyssal Plain.
+
+Marine Snow	Organic matter descending through the water column.
+
+Mesopelagic	‘The Twilight Zone’ where sunlight can reach but not sufficiently strongly to allow photosynthesis (about 200 m-1000 m).
+
+Microbe	Any microscopic organisms.
+
+MNP	Marine Natural Product.
+
+MGR	Marine Genetic Resource.
+
+MSR	Marine Scientific Research.
+
+Mid Ocean Ridge	Deep-sea mountain ranges formed by tectonic activity.
+
+Mid Water	A loose term describing water well below the surface but not at the seabed, often used to describe trawling which is not bottom trawling.
+
+Mud Diapir	Where mud in a cold seep environment is forced through the surrounding rocky material.
+
+Nutraceuticals	A food product containing bioactive ingredients.
+
+OBIS	Ocean Biogeographic Information System.
+
+OSPAR Convention	Convention for the Protection of the Marine Environment of the North-East Atlantic.
+
+Patent Publications	Patent publications consist of publications of applications and grants and may also include administrative publications (corrections, search reports). Type of patent documents can be identified by ‘kind codes’ such as A1 or B1 but their use varies across patent offices.
+
+PATSTAT	The EPO World Patent Statistical Database published by the European Patent Office. The report used the October 2013 version of PATSTAT. 
+
+PCT	Refers to patent publications from the international Patent Cooperation Treaty administered by WIPO. 
+
+Pelagic	Any area of the water column away from the shore or the seabed.
+
+ROV	Remote Operated Vehicle.
+
+Species Abundance	The number of individual organisms in a given area.
+
+Species Richness	The number of different species in a given area.
+
+UNCLOS	The United Nations Convention on the Law of the Sea.
+
+Water Column	An overview term incorporating all the different depth zones.
+
+US	Mainly used to denote the country code for the United States as it appears in a patent publication number.
+
+USNSF	United States National Science Foundation. 
+
+Whale Fall	The carcass of a whale which provides temporary nutrient hotspots.
+
+WIPO	The World Intellectual Property Organization and administrator of the Patent Cooperation Treaty.
+
+WoRMS	World Register of Marine Species.
+
+WoRDSS	World Register of Deep-Sea Species.

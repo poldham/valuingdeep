@@ -1,15 +1,5 @@
----
-title: "Annex 1"
-author: "Paul Oldham"
-date: "1 June 2016"
-output: html_document
----
+# Annex 1
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## Annex 1
 Literature Review Method Description
 A literature review was conducted using the Thomson Reuters Web of Science database to identify relevant scientific literature and expertise. 
 In the initial phase of the literature review a series of exploratory searches were carried out to build a working dataset of 6,287 scientific publications. Using VantagePoint analytics and natural language processing software from Search Technology Inc. we reviewed all words and phrases from the title, abstract and author keywords and cited titles (keywords plus) to identify additional search terms for specialist topics. For example, while our original search included hydrothermal vents and cold seeps, it did not include methane seeps or mud volcanoes. This approach therefore allowed us to identify additional important reference terms for deep-sea features and research. Additional searches were then conducted on specialist topics (e.g. mud volcanoes or ecosystem services) and sub-datasets were created on these specialist topics. The results of different searches are provided in Table 1 below. 

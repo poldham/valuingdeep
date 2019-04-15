@@ -1,17 +1,6 @@
----
-title: "Untitled"
-author: "Paul Oldham"
-date: "1 June 2016"
-output: html_document
----
+# Deep-Sea Marine Scientific Literature
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## 3. Deep-Sea Marine Scientific Literature
-
-3.1 Introduction
+### Introduction
 
 This chapter provides empirical data on trends in deep-sea marine research and then focuses on the position of the UK in this data using scientometrics approaches. 
 

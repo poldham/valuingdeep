@@ -1,15 +1,4 @@
----
-title: "Executive Summary"
-author: "Paul Oldham"
-date: "1 June 2016"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-##Executive Summary
+# Executive Summary
 
 The following represent the key findings of the Valuing the Deep project on economic activity relating to marine genetic resources from Areas Beyond National Jurisdiction (the deep-sea) and their relevance to debates on access to genetic resources and benefit-sharing within the framework of the United Nations Convention on the Law of the Sea (UNCLOS). 
 The Valuing the Deep project consisted of four main components:
@@ -20,7 +9,7 @@ The Valuing the Deep project consisted of four main components:
 4. A review of the literature on the actual and potential market value of marine genetic resources with a focus on marketed products.
 The main objective of the project was to inform UK and wider European and international policy debates on the need for an implementing agreement (or agreements) on the conservation and sustainable use of marine biodiversity in Areas Beyond National Jurisdiction under UNCLOS and, specifically, the possible inclusion of an access and benefit-sharing mechanism for marine genetic resources. The results of the research are also relevant to the programme of work on marine biodiversity under the United Nations Convention on Biological Diversity, regional agreements and the work of the World Intellectual Property Organisation. 
 
-##Main Findings
+## Main Findings
 
 The main finding of the report is that there is growing interest in marine genetic resources including from deep-water locations. However, the majority of scientific research and commercial research and development, including deep-water locations, focuses on marine organisms from habitats inside national jurisdictions demarcated by Exclusive Economic Zones (hereafter, the EEZ). The available evidence suggests that marine scientific research in Areas Beyond National Jurisdiction concentrates around a limited number of sites relative to the scale of the deep-sea. 
 

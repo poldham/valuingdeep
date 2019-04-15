@@ -1,16 +1,6 @@
----
-title: "4. Deep Sea Species in the Patent System"
-author: "Paul Oldham"
-date: "1 June 2016"
-output: html_document
----
+# Deep-Sea Species in the Patent System
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## 4. Deep-Sea Species in the Patent System
-4.1 Introduction 
+### Introduction 
 
 Patents provide an important indicator of research and development directed towards commercial applications and products that involve genetic resources. Patent activity for marine genetic resources has received significant attention within existing reports on the deep-sea and the scientific literature [1-5]. For example, using sequence data from the patent division of GenBank, Arrieta, Arnaud-Haond and Duarte (2010) estimate that “Since 1999, the number of marine species with genes associated with patents has been increasing at an impressive rate of about 12% species per year, which is more than 10 times faster than the rate of description of marine species” (Arrieta et al., 2010: 18319). In particular, the research identified non-redundant marine gene sequences from 558 distinct marine species in the sequence deposit for patent data at GenBank (Arrieta et al., 2010: 18319). In subsequent work the same research team focused on international patent activity at the World Intellectual Property Organization and identified 677 international claims for marine gene patents involving 520 species between 1991-2009 [4].
 

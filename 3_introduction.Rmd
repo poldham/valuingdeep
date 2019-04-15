@@ -1,14 +1,4 @@
----
-title: "Introduction"
-author: "Paul Oldham"
-date: "1 June 2016"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-## 1. Introduction 
+# Introduction 
 
 The world’s oceans cover approximately 70% of the planet’s surface and are home to a wide range of organisms and specialist habitats. The oceans and the biodiversity that they sustain also provide ecosystem services that are vital to the function of the Earth’s climate and to human welfare. There is a broad consensus within the scientific community that we know remarkably little about these environments but that we need to do more to conserve and understand these environments and to promote research that generates benefits for human welfare. This is particularly true for areas that fall outside the boundaries of countries in the deep seas known as Areas Beyond National Jurisdiction (ABNJ).
 
@@ -21,9 +11,11 @@ Marine genetic resources can be broadly understood as the genetic components of 
 Basic genetic material and expression products are transformed into a resource through the combination of the material itself and human knowledge of its properties and potential uses. Many serious challenges remain in the basic ability of scientists to observe, collect and culture organisms from the deep-sea. The majority of research in the deep-sea is directed to advancing basic knowledge of these environments aided by new technological developments such as ocean floor observatories, Remote Operated Vehicles (ROVs), Autonomous Underwater Vehicles (AUVs) and manned submersibles supported by ships, specialists, teams of technicians and laboratories backed by scientific funding agencies from multiple countries. This research is expensive and underfunded relative to the enormity of deep-sea. However, the results of biological research increasingly become available in informational form (in silico) as specific DNA, RNA and amino acid sequences. These resources may ultimately find applications and form part of products across a range of economic sectors such as pharmaceuticals, cosmetics, foodstuffs and industrial enzymes that contribute to economic growth and job creation. 
 
 Countries such as the UK and the wider European Union have placed considerable emphasis on the potential of advances in science and technology to promote long-term economic growth through biotechnology. This increasingly finds form in the concept of the bioeconomy and strategies to advance the creation of a bioeconomy [3,4]. The bioeconomy is directed to realising the benefits of advances in biotechnology in areas such as agriculture, health and industry and encompasses sectors such as pharmaceuticals and emerging areas of science and technology such as synthetic biology, systems biology, metabolic engineering and bionanotechnology. 
+
 Marine genetic resources increasingly form part of future visions of the emerging bioeconomy and wider strategies focusing on the importance of marine and maritime resources to national and regional economies. In the European Union marine or blue biotechnology forms part of the Blue Growth strategy that focuses on the marine and maritime dimensions of the Europe 2020 strategy [5]. One of the main challenges in addressing the value of marine genetic resources is that economic value is commonly presented in terms of potential rather than actual value. The Marine Board of the European Science Foundation has also emphasised the importance of marine biotechnology and set out a strategy focusing on developments in relation to food, energy, health, environmental health, new enzymes and biomaterials. Thus, the Marine Board estimated that in 2010 the global market for marine biotechnology was Euro 2.8 billion and displayed a cumulative annual growth rate of 4-5% [6]. They argue that: “Less conservative estimates predict an annual growth in the sector of up to 10-12% in the coming years, revealing the huge potential and high expectations for further development of the Marine Biotechnology sector at a global scale” (Querellou 2010: 9). 
 
 Expectations regarding the potential economic value of marine genetic resources spill over into debates on marine genetic resources from Areas Beyond National Jurisdiction. In particular, a series of reports and academic articles focusing on Areas Beyond National Jurisdiction have emphasised the growth of scientific and commercial interest in marine genetic resources over the last decade [1,7-11]. This extends to research on patent activity as an indicator of commercial research and development. Recent research identified 558 distinct named marine species in a set of patents containing DNA sequences suggesting strong interest in commercial research and development involving marine organisms [11]. 
+
 However, while a growing body of literature indicates increasing research and commercial interest in marine genetic resources in general and the deep-sea in particular, it is widely recognised that the knowledge base for decision-making involving deep-sea marine genetic resources is presently very limited. Valuing the Deep aims to contribute to the evidence base to inform decision-making in five ways. 
 
 1. We conducted a large-scale empirical review of the scientific literature on the deep-sea, marine natural products and marine biotechnology to clarify the who, what and where of deep-sea research and commercial research and development; 

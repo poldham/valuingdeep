@@ -1,17 +1,6 @@
----
-title: "7. Valuing the Deep – Expert Perspectives"
-author: "Paul Oldham"
-date: "1 June 2016"
-output: html_document
----
+# Valuing the Deep – Expert Perspectives
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## 7. Valuing the Deep – Expert Perspectives
-
-###7.1 Introduction
+### Introduction
 
 This chapter presents the results of the qualitative research undertaken during the Valuing the Deep project. One of the most important challenges facing the project was investigating the ‘who, what and where’ of marine genetic research and understanding the current and potential value of marine genetic resources in Areas Beyond National Jurisdiction. Given the low level of available public information on these issues we decided to identify and consult with experts in the field of deep-sea research and marine natural products. In doing so we also recognised the importance of consulting with experts in this area about biodiversity, sustainable use and priorities for the future. 
 
